@@ -1,0 +1,11 @@
+
+circle.py
+
+In this code, first parameters such as speed, angular speed and distance were defined. Linear velocity in the x direction and angular velocity in the z direction are taken as inputs here, whereas, all other velocities are zero. Now, the current time was set to compute distance. When the traversed distance is less than the pre-set distance, the turtle will have a velocity and start moving and a circle will be traced as shown in the clip.
+
+
+
+square_openloop.py
+
+ 
+In this code, first parameters such as speed, angular speed and distance were defined where distance was equal to the side of the square. Linear velocity in the x direction and angular velocity in the z direction are taken as inputs here, whereas, all other velocities are zero. Now, the current time was set to compute distance. When the traversed distance is less than the pre-set distance, the turtle will have a velocity and start moving and a circle will be traced as shown in the clip.

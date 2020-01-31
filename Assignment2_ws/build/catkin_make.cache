@@ -1,0 +1,2 @@
+Assignment2_ws
+-DCATKIN_DEVEL_PREFIX=/home/akshay/AuE893/AuE893Spring20_Akshay_Hole/Assignment2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/akshay/AuE893/AuE893Spring20_Akshay_Hole/Assignment2_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/akshay/AuE893/AuE893Spring20_Akshay_Hole/Assignment2_ws/install
+
+Name: assignment2_ws
+Description: Description of assignment2_ws
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
